@@ -2,7 +2,6 @@ Dhananjay Sai Kumar K
 Sophomore at Sri Sairam Engineering College, Chennai, Tamil Nadu, India
 
 
-Followers: 525 | Connections: 440
 
 👨‍💻 About Me
 Hi! I’m Dhananjay Sai Kumar K, currently pursuing my sophomore year at Sri Sairam Engineering College. My academic and project experiences have fueled my passion for data science, machine learning, and AI, with a special interest in agricultural technology and data-driven solutions.
