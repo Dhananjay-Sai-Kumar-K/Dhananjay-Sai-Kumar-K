@@ -31,7 +31,14 @@ class ML_Engineer:
 ```
 
 📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhananjay-sai-kumar-k&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-sai-kumar-k&layout=compact&theme=radical&hide=html,css" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay-sai-kumar-k&theme=radical" alt="streak stats" /> </p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhananjay-sai-kumar-k&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjay-sai-kumar-k&layout=compact&theme=radical&hide_border=true&hide=html,css" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay-sai-kumar-k&theme=radical&hide_border=true" />
+</p>
 
 🛠️ Technical Arsenal
 <!-- Grouping by domain makes it scannable for recruiters -->
