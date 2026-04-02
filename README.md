@@ -1,163 +1,202 @@
-# 👋 Hi, I'm Dhananjay Sai Kumar K
+<!-- 
+  GITHUB PROFILE README TEMPLATE
+  Place this content in a repository named: dhananjay-sai-kumar-k
+  (must match your GitHub username exactly)
+-->
 
-🚀 **Machine Learning Engineer | AI & Robotics Developer**  
-📍 Chennai, India  
+<h1 align="center">Hi 👋, I'm Dhananjay Sai Kumar K</h1>
+<h3 align="center">🚀 Building Production-Ready AI Systems | ML Engineer & Robotics Developer</h3>
 
-I build **production-ready AI systems** spanning **deep learning, computer vision, generative models, speech pipelines, and robotics**.  
-My work focuses on **end-to-end ML pipelines**, **real-time systems**, and **deploying research ideas into scalable real-world applications**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhananjay-sai-kumar-k&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/dhananjay-sai-kumar-k?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/dhananjay-sai-kumar-k?label=Total%20Stars&style=social" alt="stars" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
-- 💻 GitHub: [github.com/Dhananjay-Sai-Kumar-K](https://github.com/Dhananjay-Sai-Kumar-K)
-- 💼 LinkedIn: [linkedin.com/in/dhananjay-sai-kumar-k-42a075276](https://linkedin.com/in/dhananjay-sai-kumar-k-42a075276/)
-- 🧠 LeetCode: [leetcode.com/u/dhananjaysaikumar](https://leetcode.com/u/dhananjaysaikumar/)
-- 📧 Email: dhananjaysaikumar@gmail.com
+## 🎯 About Me
 
----
+```python
+class ML_Engineer:
+    def __init__(self):
+        self.name = "Dhananjay Sai Kumar K"
+        self.location = "Chennai, India"
+        self.role = "Machine Learning Engineer"
+        self.focus = ["Deep Learning", "Computer Vision", "Speech Systems", "Generative AI", "Robotics"]
+        self.philosophy = "From research papers → production-ready systems"
+    
+    def build(self):
+        return "End-to-end ML pipelines that scale in the real world"
+```
 
-## 🧠 Technical Skills
+## GitHub Analytics
 
-### Programming
-- **Python**, **C**, **SQL**
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay-sai-kumar-k&theme=radical&hide_border=true" />
+</p>
 
-### Machine Learning & AI
-- Deep Learning, Computer Vision, NLP
-- Speech Recognition (ASR), Text-to-Speech (TTS)
-- Generative Models, Transformers, Diffusion Models
+## Technical Arsenal
+
+### AI & Machine Learning
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5A29E4?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00A86B?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4785?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-8A2BE2?style=for-the-badge)
+
+### Speech & Audio
+![Whisper](https://img.shields.io/badge/ASR_(Whisper)-00ADD8?style=for-the-badge)
+![TTS](https://img.shields.io/badge/TTS-FF6B6B?style=for-the-badge)
+![Audio Processing](https://img.shields.io/badge/Audio_Processing-9B59B6?style=for-the-badge)
+![Demucs](https://img.shields.io/badge/Demucs-2C3E50?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Frameworks & Libraries
-- TensorFlow, PyTorch, Keras
-- OpenCV, Whisper, Demucs
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros)
 
-### Audio & Video Processing
-- FFmpeg, Librosa, Torchaudio
-- Audio DSP, Speech & Translation Pipelines
+### MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-### Data & MLOps
-- ETL Pipelines, Data Preprocessing
-- Feature Engineering, Model Evaluation
-- MLOps Fundamentals
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
-### Software & Web
-- Next.js, Node.js, REST APIs
-- Prisma ORM, CI/CD, Git
+## Featured Projects
 
-### Cloud & Deployment
-- AWS, GCP, Vercel
-- Docker, Kubernetes (basic)
+### YouTube Hindi → Tamil Translation & Dubbing Pipeline
+- Production-ready speech pipeline (Whisper + Demucs + Coqui TTS + Gemini API)
 
-### Frontend & UI
-- React, Tailwind CSS, shadcn/ui
-- Framer Motion
-
----
-
-## 🎓 Education
-**Bachelor of Engineering — CSE (AI & ML)**  
-Sri Sairam Engineering College, Chennai  
-📅 2023 – 2027  
-🎯 GPA: **8.81 / 10**
+- 98% vocal separation clarity | ±0.15s lip-sync accuracy | 6× noise reduction  
+- Processes 10-min videos in 5–8 minutes on GPU  
+- Modular ETL pipeline: Download → ASR → Separation → NMT → TTS → Rendering  
 
 ---
 
-## 🚀 Featured Projects
+### Gesture Craft: Intelligent Drawing
+![Patent](https://img.shields.io/badge/📄_Patent_Filed-2025-red?style=flat-square)
+![Stars](https://img.shields.io/github/stars/dhananjay-sai-kumar-k/gesture-craft?style=flat-square)
 
-### 🎥 YouTube Hindi → Tamil Translation & Dubbing Pipeline
-**ML Engineer — Speech, Translation & Audio Systems**  
-_Sep 2025 – Nov 2025_
+- Real-time HCI system (OpenCV + MediaPipe + Computer Vision)
 
-- Built an **automated end-to-end pipeline** converting Hindi YouTube videos to Tamil with high-quality neural TTS.
-- Modular architecture:  
-  `YouTube Downloader → Whisper ASR → Demucs → NMT → TTS → Alignment → Rendering`
-- Achieved **98% vocal separation clarity** and **±0.15s lip-sync accuracy**.
-- Integrated **Whisper (GPU)**, **Demucs v4**, **Gemini API**, **Coqui TTS**, **FFmpeg**.
-- Reduced noise by **6×**, processing **10-minute videos in 5–8 minutes**.
+- Features: Draw, Erase, Undo/Redo, Color switching, Multi-page canvas  
+- Led algorithm design & ML-UI integration for 3-member team  
+- Patent filed (2025) — Novel gesture-based drawing interface  
 
 ---
 
-### 🌍 SIH 2025 — Jharkhand Heritage Tourism Platform
-**Full-Stack Developer | AI/ML Engineer**  
-_Sep 2025 – Nov 2025_
+### SIH 2025 — Jharkhand Heritage Platform
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 
-- Built a high-performance platform using **Next.js 15**, **TypeScript**, **Tailwind**, **Prisma**, **Zustand**, **TanStack Query**.
-- Achieved **<2s load time** and **95+ Lighthouse scores**.
-- Designed an **interactive GeoJSON-based destination system** with GPU-optimized animations.
-- Developed an **AI-powered trip recommendation engine** using embeddings, clustering, and itinerary scoring.
+- Full-stack + AI tourism platform (Next.js + Prisma + GeoJSON + Embeddings)
 
----
-
-### ☁️ Predictive Cloud Motion Modeling (ISRO Hackathon)
-**Machine Learning Engineer**  
-_Jul 2025 – Aug 2025_
-
-- Built a **TensorFlow DDPM** with **U-Net backbone** to predict future INSAT-3DR satellite cloud frames.
-- Designed custom ETL pipelines for **multi-band spatiotemporal data**.
-- Implemented noise scheduling, residual blocks, and skip connections for improved forecasting.
+- <2s load time | 95+ Lighthouse scores  
+- Interactive GeoJSON destination explorer  
+- AI trip planner using embeddings, clustering & scoring  
 
 ---
 
-### ✋ Gesture Craft: Intelligent Drawing (Capstone Project)
-**CEO | ML Engineer (Computer Vision & HCI)**  
-_Jul 2024 – Present_
+### Predictive Cloud Motion Modeling
+![ISRO](https://img.shields.io/badge/🏆_ISRO_Hackathon-2025-orange?style=flat-square)
+![DDPM](https://img.shields.io/badge/TensorFlow-DDPM-orange?style=flat-square)
 
-- Developed a **real-time gesture-controlled drawing system** using computer vision.
-- Features: draw, erase, undo/redo, color switching, multi-page canvases.
-- Led **algorithm design**, **system optimization**, and **ML–UI integration** for a 3-member team.
-- 📌 **Patent filed (2025)** for the core system.
+- Satellite forecasting using DDPM + U-Net (INSAT-3DR)
 
----
-
-### 🤖 Ad Astra Rover Team
-**AI & Robotics Engineer**  
-_Oct 2024 – Apr 2025_
-
-- Trained **YOLOv11n** models achieving **92% real-time accuracy**.
-- Built a **keyboard detection system** with **97% keypress accuracy**.
-- Integrated **ZED2i + ROS2** for depth maps, point clouds, and navigation.
-- Developed terrain-adaptive obstacle avoidance.
+- Predicts future cloud frames  
+- Custom multi-band spatiotemporal ETL pipeline  
+- Optimized noise scheduling & architecture  
 
 ---
 
-### 🛰️ SAR Image Colorizer (Smart India Hackathon)
-**Deep Learning Engineer**  
-_Aug 2024 – Sep 2024_
+### Ad Astra Rover — AI & Robotics
+![YOLO](https://img.shields.io/badge/YOLOv11n-92%25_Accuracy-00FFFF?style=flat-square)
+![ROS2](https://img.shields.io/badge/ROS2-ZED2i-22314E?style=flat-square)
 
-- Built a **TensorFlow U-Net** achieving **94.4% colorization accuracy**.
-- Implemented optimized preprocessing, augmentation, and training workflows.
+- Autonomous navigation system (YOLO + ROS2 + ZED2i)
 
----
-
-### 🎙️ DarkRai — Voice-Activated Personal Assistant
-**NLP & Automation Developer**  
-_2025_
-
-- Built a Python-based voice assistant with **STT**, **TTS**, app automation, and WhatsApp messaging.
-- Designed intent classification and conversational NLP pipelines.
+- 92% detection accuracy | 97% interaction accuracy  
+- Depth maps + terrain-aware obstacle avoidance  
+- Robotics team collaboration  
 
 ---
 
-## 📜 Certifications
-- IBM Machine Learning Professional Certificate
-- Deep Learning & Reinforcement Learning — IBM
-- Supervised & Unsupervised ML — IBM
-- Exploratory Data Analysis — IBM
-- NPTEL: Machine Learning, Python, DSA
+### SAR Image Colorizer
+![SIH](https://img.shields.io/badge/Smart_India_Hackathon-94.4%25_Accuracy-blue?style=flat-square)
+![UNet](https://img.shields.io/badge/TensorFlow-U--Net-green?style=flat-square)
+
+- SAR → RGB conversion using U-Net
+
+- 94.4% colorization accuracy  
+- Optimized preprocessing & training pipeline  
 
 ---
 
-## 🌱 Beyond Tech
-- 📄 **Patent Filed (2025):** Gesture Craft — Intelligent Drawing
-- 🏆 Hackathon Finalist — Hack for Purpose
-- 🎓 Class Representative (2024–25)
-- 🥇 1st Prize — National Science Day Video Competition
-- 🌍 Community & School Outreach Programs
+## Achievements & Recognition
+
+- Patent Filed (2025) — Gesture Craft Intelligent Drawing System  
+- Hackathon Finalist — Hack for Purpose  
+- 1st Prize — National Science Day Video Competition  
+- Class Representative (2024–25)  
+- Community Outreach — STEM Programs  
 
 ---
 
-## 📌 Interests
-**Generative AI • Robotics • Real-Time ML • Speech Systems • Scalable ML Deployment**
+## Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-ML_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Deep_Learning_&_RL-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPTEL-Machine_Learning-FF9933?style=for-the-badge&logo=nptel&logoColor=white" />
+</p>
+
+- IBM Machine Learning Professional Certificate  
+- Deep Learning & Reinforcement Learning — IBM  
+- Supervised & Unsupervised ML — IBM  
+- Exploratory Data Analysis — IBM  
+- NPTEL: Python, DSA, Machine Learning  
 
 ---
 
-⭐ *If you like my work, feel free to star repositories and connect with me!*
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dhananjay-sai-kumar-k">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/dhananjay-sai-kumar-k-42a075276">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/dhananjaysaikumar">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:dhananjaysaikumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay-sai-kumar-k&theme=react-dark&area=true&hide_border=true" width="100%"/>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+<p align="center">
+  <i> "Building AI that bridges research and reality — one deploy at a time."</i>
+</p>
